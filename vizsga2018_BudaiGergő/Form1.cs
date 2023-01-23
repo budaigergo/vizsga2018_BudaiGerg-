@@ -14,7 +14,7 @@ namespace vizsga2018_BudaiGergő
     {
         HappyLiving happyLiving = new HappyLiving("lakoparkok.txt");
         List<Image> floor = new List<Image>();
-        int aPark = 0;
+        
 
         public Form1()
         {
